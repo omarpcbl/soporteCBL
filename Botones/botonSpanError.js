@@ -1,7 +1,7 @@
 // Función para filtrar resultados
 function mostrarErrores() {
    const resultsContainer = document.querySelector("#resultsContainer");
-   const resultsTr = resultsContainer.querySelectorAll("tr"); 
+   const resultsTr = resultsContainer.querySelectorAll("tr:not(td tr)");
   // Recorrer los contenedores de tr y verificar si contienen span con style="background-color:red"
     //Variable para control de errores
     let erroresEncontrados = false  
