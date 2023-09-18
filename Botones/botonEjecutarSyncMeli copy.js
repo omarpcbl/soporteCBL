@@ -3,27 +3,32 @@ function clickearBotonesSecuencialmente() {
   const botonesEjecutarSync = document.querySelectorAll(
     ".btn.btn-xs.btn-success.btnEjecutarSync"
   );
-  const tiempoEntreClics = 800; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
-  // Iterar sobre los botones y simular el clic en cada uno de ellos en secuencia
-  botonesEjecutarSync.forEach((boton, index) => {
-    // Para funcionar con el filtro de errores
-    if (boton.style.display !== "none") {
-      setTimeout(() => {
-        boton.click();
-        //console.log(`Botón ${index + 1} clickeado.`);
-        console.log(`Botón ${boton.id} clickeado`);
 
-        //Mensaje de finalizado
-        if (index === botonesEjecutarSync.length - 1) {
-          alert("Finalizado");
-        }
-      }, index * tiempoEntreClics);
+  const tiempoEntreClics = 800; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
+  const arrayMla = [];
+  const botonesEjecutarSyncFiltrados = [];
+
+  botonesEjecutarSync.forEach((boton) => {
+    const arrayMlaExtraido = boton.id.match(/_(.*?)_/);
+
+    if (!arrayMla.includes(arrayMlaExtraido[1])) {
+      botonesEjecutarSyncFiltrados.push(boton);
     }
   });
-}
 
-// Llamada a la función para clickear los botones secuencialmente
-clickearBotonesSecuencialmente;
+  // Iterar sobre los botones y simular el clic en cada uno de ellos en secuencia
+  botonesEjecutarSyncFiltrados.forEach((boton, index) => {
+    setTimeout(() => {
+      boton.click();
+      //console.log(`Botón ${index + 1} clickeado.`);
+      console.log(`Botón ${boton.id} clickeado`);
+      //Mensaje de finalizado
+      if (index === botonesEjecutarSyncFiltrados.length - 1) {
+        alert("Finalizado");
+      }
+    }, index * tiempoEntreClics);
+  });
+}
 
 // Crear un nuevo botón
 const nuevoBoton = document.createElement("button");
