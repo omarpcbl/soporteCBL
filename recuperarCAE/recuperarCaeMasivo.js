@@ -1,6 +1,6 @@
 //import { cuit, facturas } from "./facturas.json";
 
-async function rCae(facturas, cuit) {
+async function rCae(facturas, cuit, checkedNC) {
   let detenerBucle = false; // Variable de bandera para detener el bucle
 
   for (const factura of facturas) {
@@ -17,7 +17,7 @@ async function rCae(facturas, cuit) {
     cuitUsuario.value = cuit;
     punto.value = factura.Punto;
     tipoComprobante.value = factura.Tipo;
-    generarNC.checked = "true";
+    generarNC.checked = checkedNC;
 
     // Llamar a recuperarCAE() y pasar un callback para controlar el flujo
     await new Promise((resolve) => {
