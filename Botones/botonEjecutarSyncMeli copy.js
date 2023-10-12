@@ -12,21 +12,29 @@ function clickearBotonesSecuencialmente() {
     const arrayMlaExtraido = boton.id.match(/_(.*?)_/);
 
     if (!arrayMla.includes(arrayMlaExtraido[1])) {
+      arrayMla.push(arrayMlaExtraido[1]);
       botonesEjecutarSyncFiltrados.push(boton);
     }
   });
 
   // Iterar sobre los botones y simular el clic en cada uno de ellos en secuencia
+
   botonesEjecutarSyncFiltrados.forEach((boton, index) => {
-    setTimeout(() => {
-      boton.click();
-      //console.log(`Botón ${index + 1} clickeado.`);
-      console.log(`Botón ${boton.id} clickeado`);
+    const setTimer = new Promise((resolve) => {
+      setTimeout(() => {
+        boton.click();
+        //console.log(`Botón ${index + 1} clickeado.`);
+        console.log(`Botón ${boton.id} clickeado`);
+        resolve();
+      }, index * tiempoEntreClics);
+    });
+
+    setTimer.then((data) => {
       //Mensaje de finalizado
       if (index === botonesEjecutarSyncFiltrados.length - 1) {
         alert("Finalizado");
       }
-    }, index * tiempoEntreClics);
+    });
   });
 }
 
