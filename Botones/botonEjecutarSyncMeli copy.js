@@ -1,4 +1,5 @@
 // Función para simular el clic en cada botón de manera secuencial
+// Presiona un botón por MLA
 function clickearBotonesSecuencialmente() {
   const botonesEjecutarSync = document.querySelectorAll(
     ".btn.btn-xs.btn-success.btnEjecutarSync"
