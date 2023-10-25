@@ -69,11 +69,11 @@ function recuperarCAE(callback) {
               "#txtPunto"
             ).val()}-${$("#txtNroComprobante").val()}\nError: ${data.Mensaje}`
           );
-          callback(true); // Cambiar a false en caso de no querer detener el proceso
+          callback(false); // --- CAMBIAR a false en caso de no querer detener el proceso-----
         } else {
           $("#divOk").show();
           console.log(
-            `Recuperada ${$("#ddlTipoComprobante").val()} ${$(
+            `OK Recuperada ${$("#ddlTipoComprobante").val()} ${$(
               "#txtPunto"
             ).val()}-${$("#txtNroComprobante").val()}`
           );
