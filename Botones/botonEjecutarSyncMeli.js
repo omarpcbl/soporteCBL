@@ -1,12 +1,10 @@
 // Función para simular el clic en cada botón de manera secuencial
 // Presiona un botón por MLA
-function clickearBotonesSecuencialmente() {
+async function clickearBotonesSecuencialmente() {
   const botonesEjecutarSync = document.querySelectorAll(
     ".btn.btn-xs.btn-success.btnEjecutarSync"
   );
 
-  // se usa un tiempo estimado. No modifica la funcionalidad del botón y por eso no se trabaja con la respuesta de la request
-  const tiempoEntreClics = 800; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
   const arrayMla = [];
   const botonesEjecutarSyncFiltrados = [];
 
@@ -20,24 +18,30 @@ function clickearBotonesSecuencialmente() {
   });
 
   // Iterar sobre los botones y simular el clic en cada uno de ellos en secuencia
+  for (const boton of botonesEjecutarSyncFiltrados) {
+    await boton.onclick();
+  }
 
-  botonesEjecutarSyncFiltrados.forEach((boton, index) => {
-    const setTimer = new Promise((resolve) => {
-      setTimeout(() => {
-        boton.click();
-        //console.log(`Botón ${index + 1} clickeado.`);
-        console.log(`Botón ${boton.id} clickeado`);
-        resolve();
-      }, index * tiempoEntreClics);
-    });
+  // DEPRECADO ----------------------------------------
+  // // se usa un tiempo estimado. No modifica la funcionalidad del botón y por eso no se trabaja con la respuesta de la request
+  // const tiempoEntreClics = 800; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
+  // botonesEjecutarSyncFiltrados.forEach((boton, index) => {
+  //   const setTimer = new Promise((resolve) => {
+  //     setTimeout(() => {
+  //       boton.click();
+  //       //console.log(`Botón ${index + 1} clickeado.`);
+  //       console.log(`Botón ${boton.id} clickeado`);
+  //       resolve();
+  //     }, index * tiempoEntreClics);
+  //   });
 
-    setTimer.then((data) => {
-      //Mensaje de finalizado
-      if (index === botonesEjecutarSyncFiltrados.length - 1) {
-        alert("Finalizado");
-      }
-    });
-  });
+  //   setTimer.then((data) => {
+  //     //Mensaje de finalizado
+  //     if (index === botonesEjecutarSyncFiltrados.length - 1) {
+  //       alert("Finalizado");
+  //     }
+  //   });
+  // });
 }
 
 // Crear un nuevo botón
