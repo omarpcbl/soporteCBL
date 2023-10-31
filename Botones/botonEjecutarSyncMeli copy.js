@@ -5,7 +5,8 @@ function clickearBotonesSecuencialmente() {
     ".btn.btn-xs.btn-success.btnEjecutarSync"
   );
 
-  const tiempoEntreClics = 1000; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
+  // se usa un tiempo estimado. No modifica la funcionalidad del botón y por eso no se trabaja con la respuesta de la request
+  const tiempoEntreClics = 800; // Tiempo en milisegundos entre cada clic (1 segundo en este ejemplo)
   const arrayMla = [];
   const botonesEjecutarSyncFiltrados = [];
 
