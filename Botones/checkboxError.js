@@ -97,7 +97,8 @@ const config = { attributes: true };
 const callback = function (mutationsList, observer) {
   // Recorre la lista de mutaciones
   for (const mutation of mutationsList) {
-    if (checkboxMostrarErrores.checked) mostrarErrores();
+    if (checkboxMostrarErrores.checked && mutation.target.disabled === false)
+      mostrarErrores();
   }
 };
 
