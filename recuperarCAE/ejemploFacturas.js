@@ -33,4 +33,4 @@ const facturas = [
 
 let cuit = "30661293299";
 
-let checkedNC = "false";
+let checkedNC = false;
