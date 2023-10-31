@@ -1,21 +1,36 @@
 const facturas = [
   {
-    Tipo: "FCA",
-    Punto: "6",
-    Numero: "19166",
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "23880",
   },
   {
-    Tipo: "FCA",
-    Punto: "6",
-    Numero: "19173",
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "23954",
   },
   {
-    Tipo: "FCA",
-    Punto: "6",
-    Numero: "29812",
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "24630",
+  },
+  {
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "23870",
+  },
+  {
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "23688",
+  },
+  {
+    Tipo: "FCB",
+    Punto: "8",
+    Numero: "24272",
   },
 ];
 
-let cuit = "30711526419";
+let cuit = "30661293299";
 
-let checkedNC = "true";
+let checkedNC = "false";

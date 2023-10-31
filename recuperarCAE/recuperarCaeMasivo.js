@@ -22,8 +22,8 @@ async function rCae(facturas, cuit, checkedNC) {
     // Llamar a recuperarCAE() y pasar un callback para controlar el flujo
     await new Promise((resolve) => {
       recuperarCAE((resultado) => {
-        if (resultado === false) {
-          detenerBucle = true; // Establecer la bandera para detener el bucle
+        if (resultado === true) {
+          detenerBucle = true; // Establecer la bandera para detener el bucle. Borrar en caso de no querer detener el bucle
         }
         resolve();
       });
@@ -31,6 +31,7 @@ async function rCae(facturas, cuit, checkedNC) {
   }
 }
 
+//Bloque con sintaxis JQuery ---ATENCION---
 function recuperarCAE(callback) {
   $("#divError,#divOk").hide();
   if (
@@ -52,7 +53,6 @@ function recuperarCAE(callback) {
       "', generarNC: " +
       $("#chkGenerarNC").is(":checked") +
       " }";
-
     $.ajax({
       type: "POST",
       url: "/Soporte/RecuperarCae",
@@ -64,14 +64,24 @@ function recuperarCAE(callback) {
         if (data.TieneError) {
           $("#msgError").html(data.Mensaje);
           $("#divError").show();
-          callback(false); // Llama al callback con 'false' para indicar un error
+          console.error(
+            `No recuperada:\n${$("#ddlTipoComprobante").val()} ${$(
+              "#txtPunto"
+            ).val()}-${$("#txtNroComprobante").val()}\nError: ${data.Mensaje}`
+          );
+          callback(false); // --- CAMBIAR a false en caso de no querer detener el proceso-----
         } else {
           $("#divOk").show();
-          callback(true); // Llama al callback con 'true' para indicar éxito
+          console.log(
+            `OK Recuperada ${$("#ddlTipoComprobante").val()} ${$(
+              "#txtPunto"
+            ).val()}-${$("#txtNroComprobante").val()}`
+          );
+          callback(false); // Llama al callback con 'false' para indicar éxito
         }
       },
     });
   } else {
-    callback(false); // Llama al callback con 'false' si los datos no son válidos
+    callback(true); // Llama al callback con 'true' si los datos no son válidos
   }
 }
