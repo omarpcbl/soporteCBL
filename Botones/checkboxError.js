@@ -7,7 +7,7 @@ function mostrarErrores() {
   let erroresEncontrados = false;
   resultsTr.forEach((tr) => {
     const tdSpans = tr.querySelectorAll(
-      'td span[style*="background-color:red"]'
+      'td span[style*="background-color: red"]'
     );
     if (tdSpans.length > 0) {
       tr.style.display = "block";
