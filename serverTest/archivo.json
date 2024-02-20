@@ -1,0 +1,5719 @@
+{
+  "pages": 16,
+  "itemsFetched": 800,
+  "responseTimes": {
+    "pagina 1": 795.6729998588562,
+    "pagina 2": 288.71339988708496,
+    "pagina 3": 283.17320013046265,
+    "pagina 4": 361.05799984931946,
+    "pagina 5": 298.9075999259949,
+    "pagina 6": 279.9823999404907,
+    "pagina 7": 279.33780002593994,
+    "pagina 8": 275.67659997940063,
+    "pagina 9": 265.3587999343872,
+    "pagina 10": 289.6236000061035,
+    "pagina 11": 293.2069001197815,
+    "pagina 12": 345.8674998283386,
+    "pagina 13": 276.44620013237,
+    "pagina 14": 306.0673999786377,
+    "pagina 15": 285.0936999320984,
+    "pagina 16": 306.0867998600006,
+    "total": 5230.272899389267
+  },
+  "pagina 1": {
+    "Items": [
+      {
+        "Id": 23005,
+        "Codigo": "AGUNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23006,
+        "Codigo": "AGUNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23007,
+        "Codigo": "AGUNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23008,
+        "Codigo": "AGUNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23009,
+        "Codigo": "AGUNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23010,
+        "Codigo": "AGUNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23011,
+        "Codigo": "AGUSUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23012,
+        "Codigo": "AGUSUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23013,
+        "Codigo": "AGUSUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23014,
+        "Codigo": "AGUSUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23015,
+        "Codigo": "AGUSUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23016,
+        "Codigo": "AGUSUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13898,
+        "Codigo": "ALBCEN39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9959,
+        "Codigo": "ALBNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9960,
+        "Codigo": "ALBNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9961,
+        "Codigo": "ALBNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9962,
+        "Codigo": "ALBNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9963,
+        "Codigo": "ALBNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9964,
+        "Codigo": "ALBNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9953,
+        "Codigo": "ALBNUE35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 9954,
+        "Codigo": "ALBNUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9955,
+        "Codigo": "ALBNUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9956,
+        "Codigo": "ALBNUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9957,
+        "Codigo": "ALBNUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9958,
+        "Codigo": "ALBNUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1610,
+        "Codigo": "ALECRE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1611,
+        "Codigo": "ALECRE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1612,
+        "Codigo": "ALECRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1613,
+        "Codigo": "ALECRE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1614,
+        "Codigo": "ALECRE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1615,
+        "Codigo": "ALECRE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1616,
+        "Codigo": "ALENEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1617,
+        "Codigo": "ALENEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1618,
+        "Codigo": "ALENEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1619,
+        "Codigo": "ALENEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1620,
+        "Codigo": "ALENEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1621,
+        "Codigo": "ALENEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25729,
+        "Codigo": "ALIAZU36",
+        "StockActual": 3,
+        "StockReservado": 2,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 25730,
+        "Codigo": "ALIAZU37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25731,
+        "Codigo": "ALIAZU38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25732,
+        "Codigo": "ALIAZU39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25733,
+        "Codigo": "ALIAZU40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25734,
+        "Codigo": "ALIBOR36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 25735,
+        "Codigo": "ALIBOR37",
+        "StockActual": 3,
+        "StockReservado": 2,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 25736,
+        "Codigo": "ALIBOR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25737,
+        "Codigo": "ALIBOR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25738,
+        "Codigo": "ALIBOR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25724,
+        "Codigo": "ALINEG36",
+        "StockActual": 2,
+        "StockReservado": 1,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 25725,
+        "Codigo": "ALINEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25726,
+        "Codigo": "ALINEG38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 2": {
+    "Items": [
+      {
+        "Id": 25727,
+        "Codigo": "ALINEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25728,
+        "Codigo": "ALINEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25744,
+        "Codigo": "ALIROS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25745,
+        "Codigo": "ALIROS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25746,
+        "Codigo": "ALIROS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25747,
+        "Codigo": "ALIROS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25748,
+        "Codigo": "ALIROS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25739,
+        "Codigo": "ALIVER36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 25740,
+        "Codigo": "ALIVER37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25741,
+        "Codigo": "ALIVER38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25742,
+        "Codigo": "ALIVER39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25743,
+        "Codigo": "ALIVER40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1362,
+        "Codigo": "AMACAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1363,
+        "Codigo": "AMACAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1364,
+        "Codigo": "AMACAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1365,
+        "Codigo": "AMACAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1366,
+        "Codigo": "AMACAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1367,
+        "Codigo": "AMACAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23665,
+        "Codigo": "AMACEN35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23656,
+        "Codigo": "AMACEN36",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 23663,
+        "Codigo": "AMACEN37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23664,
+        "Codigo": "AMACEN38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23652,
+        "Codigo": "AMACEN39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23655,
+        "Codigo": "AMACEN40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23029,
+        "Codigo": "AMACHO35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23030,
+        "Codigo": "AMACHO36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23031,
+        "Codigo": "AMACHO37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23032,
+        "Codigo": "AMACHO38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23033,
+        "Codigo": "AMACHO39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23034,
+        "Codigo": "AMACHO40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23023,
+        "Codigo": "AMACUR35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23024,
+        "Codigo": "AMACUR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23025,
+        "Codigo": "AMACUR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23026,
+        "Codigo": "AMACUR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23027,
+        "Codigo": "AMACUR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23028,
+        "Codigo": "AMACUR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23035,
+        "Codigo": "AMADOR35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23036,
+        "Codigo": "AMADOR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23037,
+        "Codigo": "AMADOR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23038,
+        "Codigo": "AMADOR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23039,
+        "Codigo": "AMADOR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23040,
+        "Codigo": "AMADOR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84334,
+        "Codigo": "AMAGOL35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84335,
+        "Codigo": "AMAGOL36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 84336,
+        "Codigo": "AMAGOL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84337,
+        "Codigo": "AMAGOL38",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 84338,
+        "Codigo": "AMAGOL39",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 84339,
+        "Codigo": "AMAGOL40",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 1266,
+        "Codigo": "AMAHUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1267,
+        "Codigo": "AMAHUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 3": {
+    "Items": [
+      {
+        "Id": 1268,
+        "Codigo": "AMAHUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1269,
+        "Codigo": "AMAHUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1270,
+        "Codigo": "AMAHUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1271,
+        "Codigo": "AMAHUE40",
+        "StockActual": 2,
+        "StockReservado": 1,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 1272,
+        "Codigo": "AMANEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1273,
+        "Codigo": "AMANEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1274,
+        "Codigo": "AMANEG37",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1275,
+        "Codigo": "AMANEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1276,
+        "Codigo": "AMANEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1277,
+        "Codigo": "AMANEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9904,
+        "Codigo": "AMANUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9905,
+        "Codigo": "AMANUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9906,
+        "Codigo": "AMANUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9907,
+        "Codigo": "AMANUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9908,
+        "Codigo": "AMANUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9909,
+        "Codigo": "AMANUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73264,
+        "Codigo": "AMAPEL35",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73265,
+        "Codigo": "AMAPEL36",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 73266,
+        "Codigo": "AMAPEL37",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73267,
+        "Codigo": "AMAPEL38",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 73268,
+        "Codigo": "AMAPEL39",
+        "StockActual": 11,
+        "StockReservado": 0,
+        "StockConReservas": 11
+      },
+      {
+        "Id": 73269,
+        "Codigo": "AMAPEL40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 1368,
+        "Codigo": "AMAPLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1369,
+        "Codigo": "AMAPLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1370,
+        "Codigo": "AMAPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1371,
+        "Codigo": "AMAPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1372,
+        "Codigo": "AMAPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1373,
+        "Codigo": "AMAPLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84328,
+        "Codigo": "AMASIL35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 84329,
+        "Codigo": "AMASIL36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84330,
+        "Codigo": "AMASIL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84331,
+        "Codigo": "AMASIL38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 84332,
+        "Codigo": "AMASIL39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 84333,
+        "Codigo": "AMASIL40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9910,
+        "Codigo": "AMASNK35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9911,
+        "Codigo": "AMASNK36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9912,
+        "Codigo": "AMASNK37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9913,
+        "Codigo": "AMASNK38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9914,
+        "Codigo": "AMASNK39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9915,
+        "Codigo": "AMASNK40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1278,
+        "Codigo": "AMATOS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1279,
+        "Codigo": "AMATOS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1280,
+        "Codigo": "AMATOS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1281,
+        "Codigo": "AMATOS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1282,
+        "Codigo": "AMATOS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1283,
+        "Codigo": "AMATOS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16942,
+        "Codigo": "AMAVIB35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16943,
+        "Codigo": "AMAVIB36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16944,
+        "Codigo": "AMAVIB37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16945,
+        "Codigo": "AMAVIB38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 4": {
+    "Items": [
+      {
+        "Id": 16946,
+        "Codigo": "AMAVIB39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16947,
+        "Codigo": "AMAVIB40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23017,
+        "Codigo": "AMAVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23018,
+        "Codigo": "AMAVIS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23019,
+        "Codigo": "AMAVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23020,
+        "Codigo": "AMAVIS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23021,
+        "Codigo": "AMAVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23022,
+        "Codigo": "AMAVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16948,
+        "Codigo": "AMECAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16949,
+        "Codigo": "AMECAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16950,
+        "Codigo": "AMECAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16951,
+        "Codigo": "AMECAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16952,
+        "Codigo": "AMECAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16953,
+        "Codigo": "AMECAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16954,
+        "Codigo": "AMECRE35",
+        "StockActual": 2,
+        "StockReservado": 2,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16955,
+        "Codigo": "AMECRE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16956,
+        "Codigo": "AMECRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16957,
+        "Codigo": "AMECRE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16958,
+        "Codigo": "AMECRE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16959,
+        "Codigo": "AMECRE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9995,
+        "Codigo": "AMENEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9996,
+        "Codigo": "AMENEG36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 9997,
+        "Codigo": "AMENEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9998,
+        "Codigo": "AMENEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9999,
+        "Codigo": "AMENEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10000,
+        "Codigo": "AMENEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10001,
+        "Codigo": "AMESUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10002,
+        "Codigo": "AMESUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10003,
+        "Codigo": "AMESUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10004,
+        "Codigo": "AMESUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10005,
+        "Codigo": "AMESUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 10006,
+        "Codigo": "AMESUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23041,
+        "Codigo": "AMEUVA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23042,
+        "Codigo": "AMEUVA36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23043,
+        "Codigo": "AMEUVA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23044,
+        "Codigo": "AMEUVA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23045,
+        "Codigo": "AMEUVA39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23046,
+        "Codigo": "AMEUVA40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73705,
+        "Codigo": "ANNJEA36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73692,
+        "Codigo": "ANNJEA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73703,
+        "Codigo": "ANNJEA38",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 73696,
+        "Codigo": "ANNJEA39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73700,
+        "Codigo": "ANNJEA40",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73707,
+        "Codigo": "ANNJEA41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73702,
+        "Codigo": "ANNPLA36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73691,
+        "Codigo": "ANNPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73697,
+        "Codigo": "ANNPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73704,
+        "Codigo": "ANNPLA39",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73690,
+        "Codigo": "ANNPLA40",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 73701,
+        "Codigo": "ANNPLA41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 5": {
+    "Items": [
+      {
+        "Id": 73693,
+        "Codigo": "ANNROS36",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 73699,
+        "Codigo": "ANNROS37",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 73694,
+        "Codigo": "ANNROS38",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73706,
+        "Codigo": "ANNROS39",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 73698,
+        "Codigo": "ANNROS40",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 73695,
+        "Codigo": "ANNROS41",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 1285,
+        "Codigo": "AURCAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1286,
+        "Codigo": "AURCAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1287,
+        "Codigo": "AURCAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1288,
+        "Codigo": "AURCAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1289,
+        "Codigo": "AURCAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1290,
+        "Codigo": "AURNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1291,
+        "Codigo": "AURNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1292,
+        "Codigo": "AURNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1293,
+        "Codigo": "AURNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1294,
+        "Codigo": "AURNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1295,
+        "Codigo": "AURNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1296,
+        "Codigo": "AUROLI35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1297,
+        "Codigo": "AUROLI36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1298,
+        "Codigo": "AUROLI37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1299,
+        "Codigo": "AUROLI38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1300,
+        "Codigo": "AUROLI39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1301,
+        "Codigo": "AUROLI40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 32595,
+        "Codigo": "BAGNEG",
+        "StockActual": 11,
+        "StockReservado": 0,
+        "StockConReservas": 11
+      },
+      {
+        "Id": 32597,
+        "Codigo": "BAGPLA",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 32598,
+        "Codigo": "BAGVIB",
+        "StockActual": 10,
+        "StockReservado": 1,
+        "StockConReservas": 9
+      },
+      {
+        "Id": 32596,
+        "Codigo": "BAGVIS",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 25668,
+        "Codigo": "CALNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25669,
+        "Codigo": "CALNEG36",
+        "StockActual": 9,
+        "StockReservado": 1,
+        "StockConReservas": 8
+      },
+      {
+        "Id": 25670,
+        "Codigo": "CALNEG37",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 25671,
+        "Codigo": "CALNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25672,
+        "Codigo": "CALNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25673,
+        "Codigo": "CALNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25674,
+        "Codigo": "CALVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25675,
+        "Codigo": "CALVIS36",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 25676,
+        "Codigo": "CALVIS37",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 25677,
+        "Codigo": "CALVIS38",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 25678,
+        "Codigo": "CALVIS39",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 25679,
+        "Codigo": "CALVIS40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 31449,
+        "Codigo": "CANCAM35",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 31450,
+        "Codigo": "CANCAM36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 31451,
+        "Codigo": "CANCAM37",
+        "StockActual": 7,
+        "StockReservado": 1,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 31452,
+        "Codigo": "CANCAM38",
+        "StockActual": 3,
+        "StockReservado": 2,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 31453,
+        "Codigo": "CANCAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 31454,
+        "Codigo": "CANCAM40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 30398,
+        "Codigo": "CANHUE35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 30399,
+        "Codigo": "CANHUE36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 30400,
+        "Codigo": "CANHUE37",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 30401,
+        "Codigo": "CANHUE38",
+        "StockActual": 7,
+        "StockReservado": 1,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 30402,
+        "Codigo": "CANHUE39",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 6": {
+    "Items": [
+      {
+        "Id": 30403,
+        "Codigo": "CANHUE40",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30404,
+        "Codigo": "CANVIS35",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 30405,
+        "Codigo": "CANVIS36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 30406,
+        "Codigo": "CANVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30407,
+        "Codigo": "CANVIS38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30408,
+        "Codigo": "CANVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30409,
+        "Codigo": "CANVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18671,
+        "Codigo": "CDE",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16984,
+        "Codigo": "CHICAM35",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 16985,
+        "Codigo": "CHICAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16986,
+        "Codigo": "CHICAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16987,
+        "Codigo": "CHICAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16988,
+        "Codigo": "CHICAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16989,
+        "Codigo": "CHICAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23660,
+        "Codigo": "CHICHO35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 23666,
+        "Codigo": "CHICHO36",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 23657,
+        "Codigo": "CHICHO37",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 23662,
+        "Codigo": "CHICHO38",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 23650,
+        "Codigo": "CHICHO39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23654,
+        "Codigo": "CHICHO40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16990,
+        "Codigo": "CHINEG35",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 16991,
+        "Codigo": "CHINEG36",
+        "StockActual": 5,
+        "StockReservado": 1,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 16992,
+        "Codigo": "CHINEG37",
+        "StockActual": 9,
+        "StockReservado": 1,
+        "StockConReservas": 8
+      },
+      {
+        "Id": 16993,
+        "Codigo": "CHINEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16994,
+        "Codigo": "CHINEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16995,
+        "Codigo": "CHINEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22999,
+        "Codigo": "CIRMAR35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23000,
+        "Codigo": "CIRMAR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23001,
+        "Codigo": "CIRMAR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23002,
+        "Codigo": "CIRMAR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23003,
+        "Codigo": "CIRMAR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23004,
+        "Codigo": "CIRMAR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22993,
+        "Codigo": "CIRNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22994,
+        "Codigo": "CIRNEG36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22995,
+        "Codigo": "CIRNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22996,
+        "Codigo": "CIRNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22997,
+        "Codigo": "CIRNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 22998,
+        "Codigo": "CIRNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1598,
+        "Codigo": "CLACAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1599,
+        "Codigo": "CLACAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1600,
+        "Codigo": "CLACAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1601,
+        "Codigo": "CLACAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1602,
+        "Codigo": "CLACAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1603,
+        "Codigo": "CLACAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1604,
+        "Codigo": "CLANEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1605,
+        "Codigo": "CLANEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1606,
+        "Codigo": "CLANEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1607,
+        "Codigo": "CLANEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1608,
+        "Codigo": "CLANEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1609,
+        "Codigo": "CLANEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 7": {
+    "Items": [
+      {
+        "Id": 23159,
+        "Codigo": "CONAZU35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23160,
+        "Codigo": "CONAZU36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 23161,
+        "Codigo": "CONAZU37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23162,
+        "Codigo": "CONAZU38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23163,
+        "Codigo": "CONAZU39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23164,
+        "Codigo": "CONAZU40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18815,
+        "Codigo": "CONDOR35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 18816,
+        "Codigo": "CONDOR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18817,
+        "Codigo": "CONDOR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18818,
+        "Codigo": "CONDOR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18819,
+        "Codigo": "CONDOR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18820,
+        "Codigo": "CONDOR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18821,
+        "Codigo": "CONFUC35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18822,
+        "Codigo": "CONFUC36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18823,
+        "Codigo": "CONFUC37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18824,
+        "Codigo": "CONFUC38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18825,
+        "Codigo": "CONFUC39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18826,
+        "Codigo": "CONFUC40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18827,
+        "Codigo": "CONNAR35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 18828,
+        "Codigo": "CONNAR36",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 18829,
+        "Codigo": "CONNAR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18830,
+        "Codigo": "CONNAR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18831,
+        "Codigo": "CONNAR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18832,
+        "Codigo": "CONNAR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19965,
+        "Codigo": "CONPLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19966,
+        "Codigo": "CONPLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19967,
+        "Codigo": "CONPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19968,
+        "Codigo": "CONPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19969,
+        "Codigo": "CONPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 19970,
+        "Codigo": "CONPLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18833,
+        "Codigo": "CONVER35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 18834,
+        "Codigo": "CONVER36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18835,
+        "Codigo": "CONVER37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18836,
+        "Codigo": "CONVER38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18837,
+        "Codigo": "CONVER39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 18838,
+        "Codigo": "CONVER40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1380,
+        "Codigo": "DELBEI35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1381,
+        "Codigo": "DELBEI36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1382,
+        "Codigo": "DELBEI37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1383,
+        "Codigo": "DELBEI38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1384,
+        "Codigo": "DELBEI39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1385,
+        "Codigo": "DELBEI40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1386,
+        "Codigo": "DELBLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1387,
+        "Codigo": "DELBLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1388,
+        "Codigo": "DELBLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1389,
+        "Codigo": "DELBLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1390,
+        "Codigo": "DELBLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1391,
+        "Codigo": "DELBLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1302,
+        "Codigo": "DELCAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1303,
+        "Codigo": "DELCAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 8": {
+    "Items": [
+      {
+        "Id": 1304,
+        "Codigo": "DELCAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1305,
+        "Codigo": "DELCAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1306,
+        "Codigo": "DELCAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1307,
+        "Codigo": "DELCAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16857,
+        "Codigo": "DELDUL35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16858,
+        "Codigo": "DELDUL36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16859,
+        "Codigo": "DELDUL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16860,
+        "Codigo": "DELDUL38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16861,
+        "Codigo": "DELDUL39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16862,
+        "Codigo": "DELDUL40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 17038,
+        "Codigo": "DELDUL41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16863,
+        "Codigo": "DELHUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16864,
+        "Codigo": "DELHUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16865,
+        "Codigo": "DELHUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16866,
+        "Codigo": "DELHUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16867,
+        "Codigo": "DELHUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16868,
+        "Codigo": "DELHUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 17039,
+        "Codigo": "DELHUE41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1308,
+        "Codigo": "DELNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1309,
+        "Codigo": "DELNEG36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 1310,
+        "Codigo": "DELNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1311,
+        "Codigo": "DELNEG38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1312,
+        "Codigo": "DELNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1313,
+        "Codigo": "DELNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 17040,
+        "Codigo": "DELNEG41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9916,
+        "Codigo": "DELNUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9917,
+        "Codigo": "DELNUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9918,
+        "Codigo": "DELNUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9919,
+        "Codigo": "DELNUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9920,
+        "Codigo": "DELNUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9921,
+        "Codigo": "DELNUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9922,
+        "Codigo": "DELNUE41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25687,
+        "Codigo": "DELOFF35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25688,
+        "Codigo": "DELOFF36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25689,
+        "Codigo": "DELOFF37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25690,
+        "Codigo": "DELOFF38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25691,
+        "Codigo": "DELOFF39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25692,
+        "Codigo": "DELOFF40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25693,
+        "Codigo": "DELOFF41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1314,
+        "Codigo": "DELOLI35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1315,
+        "Codigo": "DELOLI36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1316,
+        "Codigo": "DELOLI37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1317,
+        "Codigo": "DELOLI38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1318,
+        "Codigo": "DELOLI39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1319,
+        "Codigo": "DELOLI40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16851,
+        "Codigo": "DELPLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16852,
+        "Codigo": "DELPLA36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16853,
+        "Codigo": "DELPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16854,
+        "Codigo": "DELPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16855,
+        "Codigo": "DELPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 9": {
+    "Items": [
+      {
+        "Id": 16856,
+        "Codigo": "DELPLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25694,
+        "Codigo": "DELPLA41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9929,
+        "Codigo": "DELSNK35",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9930,
+        "Codigo": "DELSNK36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9931,
+        "Codigo": "DELSNK37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9932,
+        "Codigo": "DELSNK38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9933,
+        "Codigo": "DELSNK39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9934,
+        "Codigo": "DELSNK40",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 25680,
+        "Codigo": "DELTAN35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25681,
+        "Codigo": "DELTAN36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25682,
+        "Codigo": "DELTAN37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25683,
+        "Codigo": "DELTAN38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25684,
+        "Codigo": "DELTAN39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25685,
+        "Codigo": "DELTAN40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16839,
+        "Codigo": "DELVER35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16840,
+        "Codigo": "DELVER36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16841,
+        "Codigo": "DELVER37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16842,
+        "Codigo": "DELVER38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16843,
+        "Codigo": "DELVER39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16844,
+        "Codigo": "DELVER40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16845,
+        "Codigo": "DELVIB35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16846,
+        "Codigo": "DELVIB36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16847,
+        "Codigo": "DELVIB37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16848,
+        "Codigo": "DELVIB38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16849,
+        "Codigo": "DELVIB39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16850,
+        "Codigo": "DELVIB40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9923,
+        "Codigo": "DELVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9924,
+        "Codigo": "DELVIS36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9925,
+        "Codigo": "DELVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9926,
+        "Codigo": "DELVIS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9927,
+        "Codigo": "DELVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9928,
+        "Codigo": "DELVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 25686,
+        "Codigo": "DELVIS41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 17495,
+        "Codigo": "ENVIO",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28487,
+        "Codigo": "FAIDOR35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28488,
+        "Codigo": "FAIDOR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28489,
+        "Codigo": "FAIDOR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28490,
+        "Codigo": "FAIDOR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28491,
+        "Codigo": "FAIDOR39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 28492,
+        "Codigo": "FAIDOR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28481,
+        "Codigo": "FAIPLA35",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 28482,
+        "Codigo": "FAIPLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28483,
+        "Codigo": "FAIPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28484,
+        "Codigo": "FAIPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28485,
+        "Codigo": "FAIPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28486,
+        "Codigo": "FAIPLA40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 28499,
+        "Codigo": "FAIROJ35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 28500,
+        "Codigo": "FAIROJ36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28501,
+        "Codigo": "FAIROJ37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28502,
+        "Codigo": "FAIROJ38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 10": {
+    "Items": [
+      {
+        "Id": 28503,
+        "Codigo": "FAIROJ39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28504,
+        "Codigo": "FAIROJ40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28493,
+        "Codigo": "FAIVIO35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28494,
+        "Codigo": "FAIVIO36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28495,
+        "Codigo": "FAIVIO37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28496,
+        "Codigo": "FAIVIO38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28497,
+        "Codigo": "FAIVIO39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28498,
+        "Codigo": "FAIVIO40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88780,
+        "Codigo": "FRABLA35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 88781,
+        "Codigo": "FRABLA36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 88782,
+        "Codigo": "FRABLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88783,
+        "Codigo": "FRABLA38",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 88784,
+        "Codigo": "FRABLA39",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 88785,
+        "Codigo": "FRABLA40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 1562,
+        "Codigo": "FRACAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1563,
+        "Codigo": "FRACAM36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1564,
+        "Codigo": "FRACAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1565,
+        "Codigo": "FRACAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1566,
+        "Codigo": "FRACAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1567,
+        "Codigo": "FRACAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1556,
+        "Codigo": "FRANEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1557,
+        "Codigo": "FRANEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1558,
+        "Codigo": "FRANEG37",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1559,
+        "Codigo": "FRANEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1560,
+        "Codigo": "FRANEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1561,
+        "Codigo": "FRANEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88774,
+        "Codigo": "FRASUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88775,
+        "Codigo": "FRASUE36",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 88776,
+        "Codigo": "FRASUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88777,
+        "Codigo": "FRASUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88778,
+        "Codigo": "FRASUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88779,
+        "Codigo": "FRASUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 85010,
+        "Codigo": "GIFT3000",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 85011,
+        "Codigo": "GIFT5000",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 85013,
+        "Codigo": "GIFT8000",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9965,
+        "Codigo": "IMECAR35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 9966,
+        "Codigo": "IMECAR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9967,
+        "Codigo": "IMECAR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9968,
+        "Codigo": "IMECAR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9969,
+        "Codigo": "IMECAR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9970,
+        "Codigo": "IMECAR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1320,
+        "Codigo": "IMENEG35",
+        "StockActual": 7,
+        "StockReservado": 0,
+        "StockConReservas": 7
+      },
+      {
+        "Id": 1321,
+        "Codigo": "IMENEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1322,
+        "Codigo": "IMENEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1323,
+        "Codigo": "IMENEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1324,
+        "Codigo": "IMENEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1325,
+        "Codigo": "IMENEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 31936,
+        "Codigo": "IMENEG41",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23661,
+        "Codigo": "IMEPLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23653,
+        "Codigo": "IMEPLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 11": {
+    "Items": [
+      {
+        "Id": 23658,
+        "Codigo": "IMEPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23649,
+        "Codigo": "IMEPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23651,
+        "Codigo": "IMEPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23659,
+        "Codigo": "IMEPLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9971,
+        "Codigo": "IMEUVA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9972,
+        "Codigo": "IMEUVA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9973,
+        "Codigo": "IMEUVA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9974,
+        "Codigo": "IMEUVA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9975,
+        "Codigo": "IMEUVA39",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9976,
+        "Codigo": "IMEUVA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23047,
+        "Codigo": "IMEVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23048,
+        "Codigo": "IMEVIS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23049,
+        "Codigo": "IMEVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23050,
+        "Codigo": "IMEVIS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23051,
+        "Codigo": "IMEVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 23052,
+        "Codigo": "IMEVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13189,
+        "Codigo": "INDCRE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13190,
+        "Codigo": "INDCRE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13191,
+        "Codigo": "INDCRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13192,
+        "Codigo": "INDCRE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13193,
+        "Codigo": "INDCRE39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 13194,
+        "Codigo": "INDCRE40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 13183,
+        "Codigo": "INDNEG35",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13184,
+        "Codigo": "INDNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13185,
+        "Codigo": "INDNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13186,
+        "Codigo": "INDNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13187,
+        "Codigo": "INDNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13188,
+        "Codigo": "INDNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13195,
+        "Codigo": "INDVER35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13196,
+        "Codigo": "INDVER36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13197,
+        "Codigo": "INDVER37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13198,
+        "Codigo": "INDVER38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13199,
+        "Codigo": "INDVER39",
+        "StockActual": 2,
+        "StockReservado": 2,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13200,
+        "Codigo": "INDVER40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9892,
+        "Codigo": "INENEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9893,
+        "Codigo": "INENEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9894,
+        "Codigo": "INENEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9895,
+        "Codigo": "INENEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9896,
+        "Codigo": "INENEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9897,
+        "Codigo": "INENEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9898,
+        "Codigo": "INEUVA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9899,
+        "Codigo": "INEUVA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9900,
+        "Codigo": "INEUVA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9901,
+        "Codigo": "INEUVA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9902,
+        "Codigo": "INEUVA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9903,
+        "Codigo": "INEUVA40",
+        "StockActual": 3,
+        "StockReservado": 1,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 88718,
+        "Codigo": "ISACRE35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 88719,
+        "Codigo": "ISACRE36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 88720,
+        "Codigo": "ISACRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88721,
+        "Codigo": "ISACRE38",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 12": {
+    "Items": [
+      {
+        "Id": 88722,
+        "Codigo": "ISACRE39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 88723,
+        "Codigo": "ISACRE40",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 88706,
+        "Codigo": "ISANEG35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 88707,
+        "Codigo": "ISANEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88708,
+        "Codigo": "ISANEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88709,
+        "Codigo": "ISANEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88710,
+        "Codigo": "ISANEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88711,
+        "Codigo": "ISANEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88712,
+        "Codigo": "ISAPEL35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88713,
+        "Codigo": "ISAPEL36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88714,
+        "Codigo": "ISAPEL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88715,
+        "Codigo": "ISAPEL38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88716,
+        "Codigo": "ISAPEL39",
+        "StockActual": 0,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88717,
+        "Codigo": "ISAPEL40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30416,
+        "Codigo": "JACNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30417,
+        "Codigo": "JACNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30418,
+        "Codigo": "JACNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30419,
+        "Codigo": "JACNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30420,
+        "Codigo": "JACNEG39",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30421,
+        "Codigo": "JACNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13591,
+        "Codigo": "JACPLA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13592,
+        "Codigo": "JACPLA36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13593,
+        "Codigo": "JACPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13594,
+        "Codigo": "JACPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13595,
+        "Codigo": "JACPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13596,
+        "Codigo": "JACPLA40",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 30154,
+        "Codigo": "JAZCHO35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30155,
+        "Codigo": "JAZCHO36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30156,
+        "Codigo": "JAZCHO37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30157,
+        "Codigo": "JAZCHO38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30158,
+        "Codigo": "JAZCHO39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 30159,
+        "Codigo": "JAZCHO40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1326,
+        "Codigo": "JAZNEG35",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 1327,
+        "Codigo": "JAZNEG36",
+        "StockActual": 6,
+        "StockReservado": 0,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 1328,
+        "Codigo": "JAZNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1329,
+        "Codigo": "JAZNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1330,
+        "Codigo": "JAZNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1331,
+        "Codigo": "JAZNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1332,
+        "Codigo": "JAZUVA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1333,
+        "Codigo": "JAZUVA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1334,
+        "Codigo": "JAZUVA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1335,
+        "Codigo": "JAZUVA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1336,
+        "Codigo": "JAZUVA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1337,
+        "Codigo": "JAZUVA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1338,
+        "Codigo": "JESNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1339,
+        "Codigo": "JESNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1340,
+        "Codigo": "JESNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1341,
+        "Codigo": "JESNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1342,
+        "Codigo": "JESNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1343,
+        "Codigo": "JESNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 13": {
+    "Items": [
+      {
+        "Id": 1344,
+        "Codigo": "JESVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1345,
+        "Codigo": "JESVIS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1346,
+        "Codigo": "JESVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1347,
+        "Codigo": "JESVIS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1348,
+        "Codigo": "JESVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1349,
+        "Codigo": "JESVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1538,
+        "Codigo": "JUAHUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1539,
+        "Codigo": "JUAHUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1540,
+        "Codigo": "JUAHUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1541,
+        "Codigo": "JUAHUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1542,
+        "Codigo": "JUAHUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1543,
+        "Codigo": "JUAHUE40",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1532,
+        "Codigo": "JUANEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1533,
+        "Codigo": "JUANEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1534,
+        "Codigo": "JUANEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1535,
+        "Codigo": "JUANEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1536,
+        "Codigo": "JUANEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1537,
+        "Codigo": "JUANEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73252,
+        "Codigo": "JULCRE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73253,
+        "Codigo": "JULCRE36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 73254,
+        "Codigo": "JULCRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73255,
+        "Codigo": "JULCRE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73256,
+        "Codigo": "JULCRE39",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 73257,
+        "Codigo": "JULCRE40",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 73258,
+        "Codigo": "JULNEG35",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 73259,
+        "Codigo": "JULNEG36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73260,
+        "Codigo": "JULNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73261,
+        "Codigo": "JULNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73262,
+        "Codigo": "JULNEG39",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 73263,
+        "Codigo": "JULNEG40",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 75765,
+        "Codigo": "LANCHA35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 75766,
+        "Codigo": "LANCHA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 75767,
+        "Codigo": "LANCHA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 75768,
+        "Codigo": "LANCHA38",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 75769,
+        "Codigo": "LANCHA39",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 75770,
+        "Codigo": "LANCHA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88700,
+        "Codigo": "LANHUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88701,
+        "Codigo": "LANHUE36",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 88702,
+        "Codigo": "LANHUE37",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 88703,
+        "Codigo": "LANHUE38",
+        "StockActual": 7,
+        "StockReservado": 0,
+        "StockConReservas": 7
+      },
+      {
+        "Id": 88704,
+        "Codigo": "LANHUE39",
+        "StockActual": 7,
+        "StockReservado": 0,
+        "StockConReservas": 7
+      },
+      {
+        "Id": 88705,
+        "Codigo": "LANHUE40",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 9880,
+        "Codigo": "LOLNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9881,
+        "Codigo": "LOLNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9882,
+        "Codigo": "LOLNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9883,
+        "Codigo": "LOLNEG38",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 9884,
+        "Codigo": "LOLNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9885,
+        "Codigo": "LOLNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9886,
+        "Codigo": "LOLNUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9887,
+        "Codigo": "LOLNUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 14": {
+    "Items": [
+      {
+        "Id": 9888,
+        "Codigo": "LOLNUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9889,
+        "Codigo": "LOLNUE38",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 9890,
+        "Codigo": "LOLNUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9891,
+        "Codigo": "LOLNUE40",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1568,
+        "Codigo": "LUNNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1569,
+        "Codigo": "LUNNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1570,
+        "Codigo": "LUNNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1571,
+        "Codigo": "LUNNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1572,
+        "Codigo": "LUNNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1573,
+        "Codigo": "LUNNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1580,
+        "Codigo": "LUNNUD35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1581,
+        "Codigo": "LUNNUD36",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1582,
+        "Codigo": "LUNNUD37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1583,
+        "Codigo": "LUNNUD38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1584,
+        "Codigo": "LUNNUD39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1585,
+        "Codigo": "LUNNUD40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1574,
+        "Codigo": "LUNOFF35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1575,
+        "Codigo": "LUNOFF36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1576,
+        "Codigo": "LUNOFF37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1577,
+        "Codigo": "LUNOFF38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1578,
+        "Codigo": "LUNOFF39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1579,
+        "Codigo": "LUNOFF40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1392,
+        "Codigo": "MANCAM35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1393,
+        "Codigo": "MANCAM36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1394,
+        "Codigo": "MANCAM37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1395,
+        "Codigo": "MANCAM38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1396,
+        "Codigo": "MANCAM39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1397,
+        "Codigo": "MANCAM40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28517,
+        "Codigo": "MANMAL35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28518,
+        "Codigo": "MANMAL36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28519,
+        "Codigo": "MANMAL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28520,
+        "Codigo": "MANMAL38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28521,
+        "Codigo": "MANMAL39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28522,
+        "Codigo": "MANMAL40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9941,
+        "Codigo": "MANNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9942,
+        "Codigo": "MANNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9943,
+        "Codigo": "MANNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9944,
+        "Codigo": "MANNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9945,
+        "Codigo": "MANNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9946,
+        "Codigo": "MANNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1398,
+        "Codigo": "MANNUD35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1399,
+        "Codigo": "MANNUD36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1400,
+        "Codigo": "MANNUD37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1401,
+        "Codigo": "MANNUD38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1402,
+        "Codigo": "MANNUD39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1403,
+        "Codigo": "MANNUD40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9935,
+        "Codigo": "MANNUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9936,
+        "Codigo": "MANNUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9937,
+        "Codigo": "MANNUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9938,
+        "Codigo": "MANNUE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 15": {
+    "Items": [
+      {
+        "Id": 9939,
+        "Codigo": "MANNUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9940,
+        "Codigo": "MANNUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28505,
+        "Codigo": "MANPET35",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28506,
+        "Codigo": "MANPET36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28507,
+        "Codigo": "MANPET37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28508,
+        "Codigo": "MANPET38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28509,
+        "Codigo": "MANPET39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28510,
+        "Codigo": "MANPET40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28511,
+        "Codigo": "MANVER35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28512,
+        "Codigo": "MANVER36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28513,
+        "Codigo": "MANVER37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28514,
+        "Codigo": "MANVER38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28515,
+        "Codigo": "MANVER39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 28516,
+        "Codigo": "MANVER40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9947,
+        "Codigo": "MANVIS35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9948,
+        "Codigo": "MANVIS36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9949,
+        "Codigo": "MANVIS37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9950,
+        "Codigo": "MANVIS38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9951,
+        "Codigo": "MANVIS39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9952,
+        "Codigo": "MANVIS40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13490,
+        "Codigo": "MARNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13491,
+        "Codigo": "MARNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13492,
+        "Codigo": "MARNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13493,
+        "Codigo": "MARNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13494,
+        "Codigo": "MARNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13495,
+        "Codigo": "MARNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13496,
+        "Codigo": "MARNUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13497,
+        "Codigo": "MARNUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13498,
+        "Codigo": "MARNUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13499,
+        "Codigo": "MARNUE38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13500,
+        "Codigo": "MARNUE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13501,
+        "Codigo": "MARNUE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1518,
+        "Codigo": "MAXCRE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1519,
+        "Codigo": "MAXCRE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1520,
+        "Codigo": "MAXCRE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1521,
+        "Codigo": "MAXCRE38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1522,
+        "Codigo": "MAXCRE39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1523,
+        "Codigo": "MAXCRE40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73292,
+        "Codigo": "MAXHUE35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73293,
+        "Codigo": "MAXHUE36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73294,
+        "Codigo": "MAXHUE37",
+        "StockActual": 4,
+        "StockReservado": 0,
+        "StockConReservas": 4
+      },
+      {
+        "Id": 73295,
+        "Codigo": "MAXHUE38",
+        "StockActual": 11,
+        "StockReservado": 0,
+        "StockConReservas": 11
+      },
+      {
+        "Id": 73296,
+        "Codigo": "MAXHUE39",
+        "StockActual": 9,
+        "StockReservado": 0,
+        "StockConReservas": 9
+      },
+      {
+        "Id": 73297,
+        "Codigo": "MAXHUE40",
+        "StockActual": 7,
+        "StockReservado": 0,
+        "StockConReservas": 7
+      },
+      {
+        "Id": 1512,
+        "Codigo": "MAXMAR35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1513,
+        "Codigo": "MAXMAR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1514,
+        "Codigo": "MAXMAR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1515,
+        "Codigo": "MAXMAR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1516,
+        "Codigo": "MAXMAR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1517,
+        "Codigo": "MAXMAR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  },
+  "pagina 16": {
+    "Items": [
+      {
+        "Id": 1506,
+        "Codigo": "MAXNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1507,
+        "Codigo": "MAXNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1508,
+        "Codigo": "MAXNEG37",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1509,
+        "Codigo": "MAXNEG38",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1510,
+        "Codigo": "MAXNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 1511,
+        "Codigo": "MAXNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73246,
+        "Codigo": "MAXPEL35",
+        "StockActual": 3,
+        "StockReservado": 0,
+        "StockConReservas": 3
+      },
+      {
+        "Id": 73247,
+        "Codigo": "MAXPEL36",
+        "StockActual": 2,
+        "StockReservado": 0,
+        "StockConReservas": 2
+      },
+      {
+        "Id": 73248,
+        "Codigo": "MAXPEL37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73249,
+        "Codigo": "MAXPEL38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 73250,
+        "Codigo": "MAXPEL39",
+        "StockActual": 12,
+        "StockReservado": 0,
+        "StockConReservas": 12
+      },
+      {
+        "Id": 73251,
+        "Codigo": "MAXPEL40",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 88623,
+        "Codigo": "MAXPLA35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 88624,
+        "Codigo": "MAXPLA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88625,
+        "Codigo": "MAXPLA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88626,
+        "Codigo": "MAXPLA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88627,
+        "Codigo": "MAXPLA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 88628,
+        "Codigo": "MAXPLA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16960,
+        "Codigo": "MAXSUE35",
+        "StockActual": 1,
+        "StockReservado": 0,
+        "StockConReservas": 1
+      },
+      {
+        "Id": 16961,
+        "Codigo": "MAXSUE36",
+        "StockActual": 5,
+        "StockReservado": 0,
+        "StockConReservas": 5
+      },
+      {
+        "Id": 16962,
+        "Codigo": "MAXSUE37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 16963,
+        "Codigo": "MAXSUE38",
+        "StockActual": 7,
+        "StockReservado": 1,
+        "StockConReservas": 6
+      },
+      {
+        "Id": 16964,
+        "Codigo": "MAXSUE39",
+        "StockActual": 15,
+        "StockReservado": 0,
+        "StockConReservas": 15
+      },
+      {
+        "Id": 16965,
+        "Codigo": "MAXSUE40",
+        "StockActual": 17,
+        "StockReservado": 0,
+        "StockConReservas": 17
+      },
+      {
+        "Id": 9983,
+        "Codigo": "MEGCAR35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9984,
+        "Codigo": "MEGCAR36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9985,
+        "Codigo": "MEGCAR37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9986,
+        "Codigo": "MEGCAR38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9987,
+        "Codigo": "MEGCAR39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9988,
+        "Codigo": "MEGCAR40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9977,
+        "Codigo": "MEGNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9978,
+        "Codigo": "MEGNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9979,
+        "Codigo": "MEGNEG37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9980,
+        "Codigo": "MEGNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9981,
+        "Codigo": "MEGNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9982,
+        "Codigo": "MEGNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9989,
+        "Codigo": "MEGUVA35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9990,
+        "Codigo": "MEGUVA36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9991,
+        "Codigo": "MEGUVA37",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9992,
+        "Codigo": "MEGUVA38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9993,
+        "Codigo": "MEGUVA39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 9994,
+        "Codigo": "MEGUVA40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13171,
+        "Codigo": "MIKNEG35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13172,
+        "Codigo": "MIKNEG36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13173,
+        "Codigo": "MIKNEG37",
+        "StockActual": 1,
+        "StockReservado": 1,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13174,
+        "Codigo": "MIKNEG38",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13175,
+        "Codigo": "MIKNEG39",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13176,
+        "Codigo": "MIKNEG40",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13177,
+        "Codigo": "MIKSNK35",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      },
+      {
+        "Id": 13178,
+        "Codigo": "MIKSNK36",
+        "StockActual": 0,
+        "StockReservado": 0,
+        "StockConReservas": 0
+      }
+    ],
+    "TotalPage": 50,
+    "TotalItems": 1020
+  }
+}

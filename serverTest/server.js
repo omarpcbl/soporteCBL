@@ -8,7 +8,7 @@ app.get("/", (req, res) => {
 
 app.post("/", (req, res) => {
   let { sku } = req.query;
-
+  console.log(`Recibido POST de ${sku}`);
   res.send(`Recibido POST de ${sku}`);
 });
 

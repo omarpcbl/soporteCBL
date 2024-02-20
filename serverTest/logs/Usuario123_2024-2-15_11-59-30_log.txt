@@ -1,0 +1,4 @@
+URL: https://littleparadise.com.ar/wp-json/wp/v2/contabilium/
+Status Code: 200
+Response: {"success":true,"data":{"msg":"Se actualizó correctamente el producto."}}
+
