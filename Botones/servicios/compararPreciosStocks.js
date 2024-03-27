@@ -1,3 +1,5 @@
+//REVISAR FUNCIONALIDAD DE ESTO
+
 // Obtener todos los nodos <tr> dentro del contenedor
 const nodosTR = document.querySelectorAll("#resultsContainer > tr");
 

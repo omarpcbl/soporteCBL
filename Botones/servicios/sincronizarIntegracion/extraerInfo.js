@@ -1,5 +1,8 @@
 //Para ejecutar en la consola y copiar la info que se imprime como resultado
 
+//Definir tamano de pagina
+let pageSize = 200;
+
 async function array() {
   const items = [];
   let totalPage = 1;
@@ -8,7 +11,7 @@ async function array() {
     // Se espera a que la promesa se resuelva antes de ejecutar el push
 
     if (i === 1) {
-      totalPage = Math.ceil(TotalItems / 200);
+      totalPage = Math.ceil(TotalItems / pageSize);
     }
     //pageSize que tambien esta denro de filtrar
     items.push(...array);
@@ -52,7 +55,7 @@ const filtrar = async function (dif, page) {
       ",page: " +
       page +
       ", pageSize: " +
-      200 +
+      pageSize +
       ",scrollId:'" +
       scrollId +
       "'}";

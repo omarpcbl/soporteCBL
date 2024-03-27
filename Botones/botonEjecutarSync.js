@@ -23,7 +23,6 @@ function clickearBotonesSecuencialmente() {
 }
 
 // Llamada a la función para clickear los botones secuencialmente
-clickearBotonesSecuencialmente;
 
 // Crear un nuevo botón
 const nuevoBoton = document.createElement("button");
