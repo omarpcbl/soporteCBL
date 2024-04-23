@@ -2,10 +2,10 @@ const fs = require("fs");
 const data = require("./babay.json");
 
 //DEFINIR
-let userId = "3ENLINEA";
+let userId = "4080";
 const logDirectory = "logs";
 
-let csvString = `"MLA";"TipoPublicacion";"Envío";"SKU Meli";"Precio Meli";"Precio Promocional Meli";"Stock Meli";"SKU CBL";"Precio CBL";"Aumento porcentaje";"Aumento monto";"Stock CBL";"Actualizar precio";"Actualizar stock";"¿Está habilitada la sincronización?";"¿Coincide precio?";"¿Coincide stock?"\n`;
+let csvString = `MLA;"TipoPublicacion";"Envío";"SKU Meli";"Precio Meli";"Precio Promocional Meli";"Stock Meli";"SKU CBL";"Precio CBL";"Aumento porcentaje";"Aumento monto";"Stock CBL";"Actualizar precio";"Actualizar stock";"¿Está habilitada la sincronización?";"¿Coincide precio?";"¿Coincide stock?"\n`;
 
 //DEFINIR FORMULA EXCEL PARA EVALUAR COINCIDENCIA DE PRECIOS Y STOCK
 let formuPrecio = "INSERTE FORMULA";
