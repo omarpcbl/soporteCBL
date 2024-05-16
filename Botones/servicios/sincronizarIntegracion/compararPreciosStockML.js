@@ -2,7 +2,7 @@ const fs = require("fs");
 const data = require("./babay.json");
 
 //DEFINIR
-let userId = "4080";
+let userId = "13027";
 const logDirectory = "logs";
 
 let csvString = `MLA;"TipoPublicacion";"Envío";"SKU Meli";"Precio Meli";"Precio Promocional Meli";"Stock Meli";"SKU CBL";"Precio CBL";"Aumento porcentaje";"Aumento monto";"Stock CBL";"Actualizar precio";"Actualizar stock";"¿Está habilitada la sincronización?";"¿Coincide precio?";"¿Coincide stock?"\n`;

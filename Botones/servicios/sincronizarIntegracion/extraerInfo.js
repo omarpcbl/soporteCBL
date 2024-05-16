@@ -5,8 +5,8 @@ let pageSize = 200;
 
 async function array() {
   const items = [];
-  let totalPage = 1;
-  for (let i = 1; i <= 11; i++) {
+  let totalPage = 1.5;
+  for (let i = 1; i <= totalPage; i++) {
     const { array, TotalItems } = await filtrar(false, i);
     // Se espera a que la promesa se resuelva antes de ejecutar el push
 
