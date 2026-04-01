@@ -84,7 +84,7 @@ function generarYDescargarCSV(data) {
         // Comparar Stock Meli (Columna G) con Stock CBL (Columna L)
         let formuStock = `=IF(G${fila}=L${fila};"OK";"ERROR")`;
 
-        csvString += `${item.IdProducto};"${item.idVariante}";"${item.TipoPublicacion}";"${item.TipoShipping}";"${item.SKUActual}";${item.Precio};${item.PrecioPromocional};${item.Stock};"${item.ConceptoContabilium}";${item.PrecioContabilium};${item.PorcentajeAumentoPrecio};${item.PrecioAdicional};${item.StockContabilium};${item.ActualizaPrecio};${item.ActualizaStock};${item.IdConceptoConfiguracionPublicacion !== null};${formuPrecio};${formuStock}\n`;
+        csvString += `${item.IdProducto};"${item.IdVariante}";"${item.TipoPublicacion}";"${item.TipoShipping}";"${item.SKUActual}";${item.Precio};${item.PrecioPromocional};${item.Stock};"${item.ConceptoContabilium}";${item.PrecioContabilium};${item.PorcentajeAumentoPrecio};${item.PrecioAdicional};${item.StockContabilium};${item.ActualizaPrecio};${item.ActualizaStock};${item.IdConceptoConfiguracionPublicacion !== null};${formuPrecio};${formuStock}\n`;
         
         fila++;
     }
