@@ -71,7 +71,7 @@ function generarYDescargarCSV(data) {
     console.log("📝 Generando archivo CSV con fórmulas...");
     
     // Encabezados
-    let csvString = `MLA;"TipoPublicacion";"Envío";"SKU Meli";"Precio Meli";"Precio Promocional Meli";"Stock Meli";"SKU CBL";"Precio CBL";"Aumento porcentaje";"Aumento monto";"Stock CBL";"Actualizar precio";"Actualizar stock";"¿Está habilitada la sincronización?";"¿Coincide precio?";"¿Coincide stock?"\n`;
+    let csvString = `MLA;idVariante;"TipoPublicacion";"Envío";"SKU Meli";"Precio Meli";"Precio Promocional Meli";"Stock Meli";"SKU CBL";"Precio CBL";"Aumento porcentaje";"Aumento monto";"Stock CBL";"Actualizar precio";"Actualizar stock";"¿Está habilitada la sincronización?";"¿Coincide precio?";"¿Coincide stock?"\n`;
 
     // El conteo de filas en Excel empieza en 2 (la 1 es el encabezado)
     let fila = 2;
@@ -84,7 +84,7 @@ function generarYDescargarCSV(data) {
         // Comparar Stock Meli (Columna G) con Stock CBL (Columna L)
         let formuStock = `=IF(G${fila}=L${fila};"OK";"ERROR")`;
 
-        csvString += `${item.IdProducto};"${item.TipoPublicacion}";"${item.TipoShipping}";"${item.SKUActual}";${item.Precio};${item.PrecioPromocional};${item.Stock};"${item.ConceptoContabilium}";${item.PrecioContabilium};${item.PorcentajeAumentoPrecio};${item.PrecioAdicional};${item.StockContabilium};${item.ActualizaPrecio};${item.ActualizaStock};${item.IdConceptoConfiguracionPublicacion !== null};${formuPrecio};${formuStock}\n`;
+        csvString += `${item.IdProducto};"${item.idVariante}";"${item.TipoPublicacion}";"${item.TipoShipping}";"${item.SKUActual}";${item.Precio};${item.PrecioPromocional};${item.Stock};"${item.ConceptoContabilium}";${item.PrecioContabilium};${item.PorcentajeAumentoPrecio};${item.PrecioAdicional};${item.StockContabilium};${item.ActualizaPrecio};${item.ActualizaStock};${item.IdConceptoConfiguracionPublicacion !== null};${formuPrecio};${formuStock}\n`;
         
         fila++;
     }
